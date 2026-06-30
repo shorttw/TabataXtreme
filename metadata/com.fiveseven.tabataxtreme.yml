@@ -4,11 +4,12 @@ License: MIT
 AuthorName: Toby (FivesevenApps)
 SourceCode: https://github.com/shorttw/TabataXtreme
 IssueTracker: https://github.com/shorttw/TabataXtreme/issues
+Donate: https://buymeacoffee.com/fivesevenapps
 
 AllowedAPKSigningKeys: 8a49d4ab2710a3c8e35bea11bdd2a584840c917108c1749d6248ca0a6fe297f7
 
 AutoName: Tabata Xtreme
-Summary: Time Warp interval timer for Tabata-style workouts
+Summary: Tabata-style workout timer with a sneaky little twist - a variable time base!
 Description: |-
   Tabata Xtreme is a configurable interval timer for Tabata-style high-intensity
   workouts. It supports custom prepare, work, rest, rounds, sets, and
@@ -16,6 +17,13 @@ Description: |-
 
   Its standout feature is "Time Warp": a multiplier that scales how fast the
   work interval's clock runs relative to real time, independent of rest periods.
+  
+  You can, for example, make a 60 second dead hang actually last 70 (or 50) seconds.
+  Shorter times build confidence, longer ones build performance. Whether you
+  actually tell your client about this feature is up to you!
+  
+  Although testing has shown that even if a person is aware of the time-warping
+  it still helps them improve!
 
   This F-Droid build has no ads, no analytics, and no network permission.
 
