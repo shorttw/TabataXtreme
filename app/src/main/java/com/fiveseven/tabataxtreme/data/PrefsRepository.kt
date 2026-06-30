@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 package com.fiveseven.tabataxtreme.data
 
 import android.annotation.SuppressLint

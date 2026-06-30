@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 package com.fiveseven.tabataxtreme.sound
 
 import android.content.Context

@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 package com.fiveseven.tabataxtreme.ui
 
 import androidx.compose.foundation.layout.Box

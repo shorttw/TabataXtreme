@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 package com.fiveseven.tabataxtreme.ads
 
 import com.fiveseven.tabataxtreme.BaseApp

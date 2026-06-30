@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 package com.fiveseven.tabataxtreme.ui.theme
 
 import androidx.compose.ui.graphics.Color
