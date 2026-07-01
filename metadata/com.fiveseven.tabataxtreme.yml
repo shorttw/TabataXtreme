@@ -17,11 +17,11 @@ Description: |-
 
   Its standout feature is "Time Warp": a multiplier that scales how fast the
   work interval's clock runs relative to real time, independent of rest periods.
-  
+
   You can, for example, make a 60 second dead hang actually last 70 (or 50) seconds.
   Shorter times build confidence, longer ones build performance. Whether you
   actually tell your client about this feature is up to you!
-  
+
   Although testing has shown that even if a person is aware of the time-warping
   it still helps them improve!
 
