@@ -168,7 +168,7 @@ fun HeaderCard(
                     .height(10.dp)
                     .clip(RoundedCornerShape(999.dp)),
             )
-            Text("Tabata Xtreme, v" + BuildConfig.VERSION_NAME + " " + BuildConfig.BUILD_TYPE, style = MaterialTheme.typography.bodySmall)
+            Text("Tabata Xtreme, v" + BuildConfig.VERSION_NAME + " (" + BuildConfig.FLAVOR + ") " + BuildConfig.BUILD_TYPE, style = MaterialTheme.typography.bodySmall)
             //  Text("Jason Factor: ${"%.2f".format(multiplier)}x (virtual sec / real sec)", style = MaterialTheme.typography.bodyMedium)
         }
     }
