@@ -20,6 +20,7 @@ Builds:
     subdir: app
     gradle:
       - fdroid
+    Binaries: https://github.com/shorttw/TabataXtreme/releases/download/v1.6.1/app-fdroid-release.apk
 
 AutoUpdateMode: Version
 UpdateCheckMode: Tags
